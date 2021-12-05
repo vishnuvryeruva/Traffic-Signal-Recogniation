@@ -55,7 +55,7 @@ classes = {
 
 
 def image_processing(img):
-    model = load_model('D:\CMPE 255\Project\Traffic Signal Data\model\TSR.h5')
+    model = load_model('./model/TSR.h5')
     data=[]
     image = Image.open(img)
     image = image.resize((30, 30))
@@ -81,7 +81,7 @@ def upload():
         result = image_processing(file_path)
         s = [str(i) for i in result]
         a = int("".join(s))
-        result = "Predicted Traffic🚦Sign is: " +classes[a]
+        result = "Predicted Traffic Sign: " +classes[a]
         os.remove(file_path)
         return result
     return None
