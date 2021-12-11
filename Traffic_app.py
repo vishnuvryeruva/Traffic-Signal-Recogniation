@@ -55,7 +55,7 @@ classes = {
 
 
 def image_processing(img):
-    model = load_model('./model/TSR.h5')
+    model = load_model('./model/TSR_mod.h5')
     data=[]
     image = Image.open(img)
     image = image.resize((30, 30))
