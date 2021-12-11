@@ -4,3 +4,7 @@ by
 ### Nevil Shah
 ### Khushil Modi
 ### Sarjak Patel
+
+We have deployed the project on Heroku. 
+
+Deployed Link: http://traffic-signal-recognition.herokuapp.com/
