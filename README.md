@@ -1,5 +1,5 @@
-Term project for CMPE-255 (Data Mining)
-by
+# Term project for CMPE-255 (Data Mining)
+# - By Team Dragonite
 ### Vishnu Vardhan Reddy Yeruva
 ### Nevil Shah
 ### Sarjak Patel
