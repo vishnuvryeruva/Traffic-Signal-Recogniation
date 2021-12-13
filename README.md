@@ -1,9 +1,9 @@
 # Term project for CMPE-255 (Data Mining)
 # - By Team Dragonite
-### Vishnu Vardhan Reddy Yeruva
-### Nevil Shah
-### Sarjak Patel
-### Khushil Modi
+### Vishnu Vardhan Reddy Yeruva (SJSU ID: 015917551)
+### Nevil Shah   (SJSU ID: 015964975)
+### Sarjak Patel  (SJSU ID:015945046)
+### Khushil Modi (SJSU ID: 015923115)
 
 
 We have deployed the project on Heroku. 
