@@ -17,5 +17,3 @@ Presentation link: https://docs.google.com/presentation/d/11UngEk_QBzSg7WHjKLm22
 
 Dataset Link :- https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
 
-
-The above link will redirect you to a video of we explaining our project
